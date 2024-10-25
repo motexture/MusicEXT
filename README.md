@@ -1,7 +1,6 @@
 # MusicEXT-1.0
 
-**Using MusicGen model, create infinite length music or play live music with smooth transitions. Both thanks to the model which allows for generating music with conditioning.
-**
+Using MusicGen model from Facaebook, create infinite length music or play live music with smooth transitions. Both thanks to the model which allows for generating music with conditioning.
 
 ## Installation
 
