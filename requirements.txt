@@ -1,0 +1,21 @@
+# please make sure you have already a pytorch install that is cuda enabled!
+av==11.0.0
+einops
+flashy
+hydra-core
+hydra_colorlog
+julius
+num2words
+numpy<2.0.0
+sentencepiece
+spacy
+huggingface_hub
+demucs
+librosa
+soundfile
+gradio
+torchmetrics
+encodec
+protobuf
+pesq
+pystoi
