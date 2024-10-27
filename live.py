@@ -27,7 +27,7 @@ def audio_generation_process(queue):
             print("Generated continuation and put in queue")
         except Exception as e:
             print(f"Error on {device}: {e}")
-        sleep(0.001)  # Reduce sleep time for faster data generation
+        sleep(0.001)
 
 audio_buffer = np.array([], dtype=np.float32)
 def audio_playback_process(queue):
