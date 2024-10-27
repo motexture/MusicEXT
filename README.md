@@ -15,6 +15,10 @@ python app.py  # For standard generation
 python live.py  # For live generation
 ```
 
+## TODO
+
+Fix requirements.txt file
+
 ## Info
 
 To switch to a lighter model, replace the facebook/musicgen-large string with a different MusicGen model.
