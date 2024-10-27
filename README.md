@@ -26,6 +26,6 @@ Note: Running live music generation with either the melody or large model requir
 The code in this repository is released under the MIT license as found in the LICENSE file.
 The models weights in this repository are released under the CC-BY-NC 4.0 license as found in the LICENSE_weights file.
 
-## References
+## Original Repo
 
 [AudioCraft by Facebook Research](https://github.com/facebookresearch/audiocraft)
