@@ -17,7 +17,7 @@ python live.py  # For live generation
 
 ## TODO
 
-Fix requirements.txt file
+Fix requirements.txt file. Feel free to open a pull request.
 
 ## Info
 
